@@ -51,3 +51,8 @@ body {
     right: -30px;
     top: 35%;
 }
+
+.btn {
+    right: 200px;
+    top: 150px;
+}
